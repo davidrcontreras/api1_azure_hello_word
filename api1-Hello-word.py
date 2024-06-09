@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask#, request, jsonify
 #el objeto request trae la petición del cliente hacía el servidor 
 
 #### #ste ejemplo recibe en metodo GET por defecto a la ruta Raíz de la api y responde simplemente un saludo en el
