@@ -1,3 +1,4 @@
+import os
 from flask import Flask#, request, jsonify
 #el objeto request trae la petición del cliente hacía el servidor 
 
